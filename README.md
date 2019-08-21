@@ -10,7 +10,7 @@ If you like this theme, please [![ko-fi](https://www.ko-fi.com/img/githubbutton_
 
 # Installation
 
-- Clone this repository and copy the *puzzle-bobble folder* to **/boot/grub/themes/**
+- Clone this repository and copy the **puzzle-bobble folder** to **/boot/grub/themes/**
 - Edit **/etc/default/grub** and add or modify the *GRUB_THEME* parameter like this:
 ```bash
 GRUB_THEME="/boot/grub/themes/puzzle-bobble/theme.txt"
