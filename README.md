@@ -24,6 +24,8 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 - Suggested Grub2 resolution: 1920x1080
 
+- If you are using Arch Linux, you can directly install this AUR package: https://aur.archlinux.org/packages/puzzle-bobble-grub2-theme/
+
 # Bugs
 
 If you found a bug, feel free to open an issue or send a PR :)
